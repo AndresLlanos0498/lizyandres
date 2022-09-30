@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lizyandres/static/css/main.d1e78bf8.chunk.css",
-    "main.js": "/lizyandres/static/js/main.4e11ca05.chunk.js",
-    "main.js.map": "/lizyandres/static/js/main.4e11ca05.chunk.js.map",
+    "main.js": "/lizyandres/static/js/main.2b24d11b.chunk.js",
+    "main.js.map": "/lizyandres/static/js/main.2b24d11b.chunk.js.map",
     "runtime-main.js": "/lizyandres/static/js/runtime-main.e0bebd06.js",
     "runtime-main.js.map": "/lizyandres/static/js/runtime-main.e0bebd06.js.map",
     "static/js/2.fa2a86ad.chunk.js": "/lizyandres/static/js/2.fa2a86ad.chunk.js",
     "static/js/2.fa2a86ad.chunk.js.map": "/lizyandres/static/js/2.fa2a86ad.chunk.js.map",
     "index.html": "/lizyandres/index.html",
-    "precache-manifest.6d38e1360fee624526444d7496dc2fc7.js": "/lizyandres/precache-manifest.6d38e1360fee624526444d7496dc2fc7.js",
+    "precache-manifest.15073405cbf32836604a5c9fd6f1fc64.js": "/lizyandres/precache-manifest.15073405cbf32836604a5c9fd6f1fc64.js",
     "service-worker.js": "/lizyandres/service-worker.js",
     "static/css/main.d1e78bf8.chunk.css.map": "/lizyandres/static/css/main.d1e78bf8.chunk.css.map",
     "static/js/2.fa2a86ad.chunk.js.LICENSE.txt": "/lizyandres/static/js/2.fa2a86ad.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.e0bebd06.js",
     "static/js/2.fa2a86ad.chunk.js",
     "static/css/main.d1e78bf8.chunk.css",
-    "static/js/main.4e11ca05.chunk.js"
+    "static/js/main.2b24d11b.chunk.js"
   ]
 }
