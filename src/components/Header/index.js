@@ -9,7 +9,7 @@ function Header( { black } ) {
             <img alt="Netflix" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1280px-Netflix_2015_logo.svg.png" />
           </a>  
           <div>
-            Clone
+            L❤A
           </div>
         </div>
         <div className="header--user">

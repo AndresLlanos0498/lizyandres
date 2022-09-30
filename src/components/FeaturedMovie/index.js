@@ -24,7 +24,7 @@ function FeaturedMovie( { item } ) {
     >
         <div className="featured--vertical">
             <div className="featured--horizontal">
-                <div className="featured--name">Amor</div>
+                <div className="featured--name">Tu y yo</div>
                 
                 <div className="featured--info">
                     <div className="featured--points">20/10 puntos</div>
